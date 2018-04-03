@@ -1,6 +1,11 @@
 # watsonSpeechToText
+i) setup
+
 1) run npm install
-textToSpeech.js:
+
+
+
+ii) textToSpeech.js:
 2) Change username and password to your watson speech to text:
 var speechToText = new SpeechToTextV1({
 	username: 'username',
